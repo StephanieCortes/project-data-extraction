@@ -18,7 +18,12 @@ Open positions:
 Data Scientist
 Data Engineer
 
+## Obstacles and lessons learned
+In this project the main obstacle was defining what my project would be and defining a pipeline for it.
 
+After finishing this project, I learned how to scrape different objects from a website by different methods. At the end, I present a cleaner and clearer code.
+
+I would like to upgrade the function for extracting data so that the user can write the job and obtain a CSV file as a result.
 
 ---
 
@@ -28,13 +33,13 @@ Data Engineer
 * Python 3.6+
 * Works on Linux, Windows, macOS, BSD
 
-## Necessary Deliverables
+## Deliverables
 
-The following deliverables should be pushed to your Github repo for this chapter.
+You will find the following deliverables:
 
-* **A Jupyter Notebook (.ipynb) file** that contains the code used to work with your API and scrape your web page.
-* **An output folder** containing the outputs of your API and scraping efforts.
-* **A ``README.md`` file** containing a detailed explanation of your approach and code for retrieving data from the API and scraping the web page as well as your results, obstacles encountered, and lessons learned.
+* **A Jupyter Notebook (.ipynb) file** that contains the code used to scrape the web page.
+* **An output folder** containing the outputs of scraping data.
+* **A ``README.md`` file** containing a detailed explanation of the approach and code for retrieving data from the API and scraping the web page as well as your results, obstacles encountered, and lessons learned.
 
 ## Let's Get Started
 
